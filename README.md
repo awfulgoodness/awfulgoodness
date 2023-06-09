@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @awfulgoodness
 - 👀 I’m interested in front end webdev and building trading software.
 - 🌱 I’m currently learning how this all works.
-- 💞️ I’m looking to collaborate on trading algorithms. 
 - 📫 How to reach me? smoke signals.
 
 <!---
